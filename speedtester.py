@@ -14,7 +14,7 @@ barra = ('#1e81b0')
 #start tkinter and cfg size
 wdw = Tk ()
 wdw.title ('')
-wdw.geometry("500x500")
+wdw.geometry("500x300")
 wdw.configure(background=c1)
 wdw.resizable(width=FALSE, height=FALSE)
 
